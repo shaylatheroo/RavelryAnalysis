@@ -1,3 +1,12 @@
+Links:
+Tableau Public for Pattern Analysis - https://public.tableau.com/views/RavelryPatternAnalysis/PatternswithSpecificYarnWeight?:display_count=y&:origin=viz_share_link
+
+Tableau Public for Yarn Analysis - https://public.tableau.com/shared/FNSBQGXW6?:display_count=y&:origin=viz_share_link
+
+Gitbook for Project - https://students-3.gitbook.io/ravelry-analytics-project/
+
+---
+
 Contributors:
 - Shayla, user shaylatheroo
 - Maryam, user Mary-m
